@@ -98,7 +98,7 @@ const Index = () => {
   return (
     <Container>
       <div className='text-center mt-2'>
-        <h2>Dood Dw</h2>
+        <h2>doodstream.com downloader by bugbounted</h2>
       </div>
 
       <Form onSubmit={handleGetDetail}>
